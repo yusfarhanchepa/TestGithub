@@ -1,0 +1,7 @@
+this is testing file.
+
+i know how this git works.
+\
+its only 3 step ..add..commit and push..
+
+pull in other step
